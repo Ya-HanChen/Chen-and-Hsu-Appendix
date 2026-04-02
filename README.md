@@ -1,33 +1,11 @@
-# Replication Code
+# Online Appendix
 
-This repository contains the R replication code for the analysis in Chen and Hsu.
-
-The code reproduces all the main figures and tables reported in the manuscript using matching.
+This repository hosts the online appendix for the article: ***"Voting Against the Giants: Legislative Performance and Minor Party Survival under Taiwan’s Mixed-Member System"*** by Ya-Han Chen and Yung-Ming Hsu. 
 
 ---
 
-## Software Requirements
-
-All analyses are conducted using **R**.
-
-Required user-written R packages:
-- MatchIt
-- VGAM
-- cobalt
-
----
-
-## Online Appendix
-
-We host the appendix online for readers to download. 
-
-## Data Availability
-
-The dataset used in this study is not publicly available.
-
-Users who have access to the data should place the Stata data file in the `data/` directory and ensure that file paths in the `.R` files are correctly specified.
-
----
+# Citation
+Chen, Ya-Han, and Yung-Ming Hsu. Forthcoming. **"Voting Against the Giants: Legislative Performance and Minor Party Survival under Taiwan’s Mixed-Member System."** *Issues and Studies*. 
 
 ## Authors
 

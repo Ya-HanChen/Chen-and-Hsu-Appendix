@@ -10,7 +10,7 @@ The appendix is available in this repository as:
 ---
 
 # Citation
-Chen, Ya-Han, and Yung-Ming Hsu. Forthcoming. **"Voting Against the Giants: Legislative Performance and Minor Party Survival under Taiwan’s Mixed-Member System."** *Issues and Studies*. 
+Ya-Han Chen and Yung-Ming Hsu. Forthcoming. **"Voting Against the Giants: Legislative Performance and Minor Party Survival under Taiwan’s Mixed-Member System."** *Issues and Studies*. 
 
 ---
 
